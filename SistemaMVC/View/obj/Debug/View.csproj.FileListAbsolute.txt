@@ -1,0 +1,10 @@
+C:\temp\SistemaMVC\SistemaMVC\View\bin\Debug\View.exe.config
+C:\temp\SistemaMVC\SistemaMVC\View\bin\Debug\View.exe
+C:\temp\SistemaMVC\SistemaMVC\View\bin\Debug\View.pdb
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.CadTelefone.resources
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.Properties.Resources.resources
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.exe
+C:\temp\SistemaMVC\SistemaMVC\View\obj\Debug\View.pdb
